@@ -2,10 +2,12 @@
 body{
 	font-type: Arial;
 	background-color: rgb(98, 144, 176);
+	text-align: center;
 }
 
 form{
 	padding: 16px;
 	border: 4px;
 	background-color: rgb(197, 209, 218);
+	display: inline-block;
 }
