@@ -4,7 +4,8 @@ body{
 	background-color: rgb(98, 144, 176);
 }
 
-form{
-
+.form_fill{
+	border-radius: 5px;
+	background-color: rgb(255, 255, 255);
 }
 
