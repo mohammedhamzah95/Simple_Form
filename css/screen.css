@@ -3,3 +3,7 @@ body{
 	font-type: Arial;
 	background-color: rgb(98, 144, 176);
 }
+
+form{
+	padding: 16px;
+}
